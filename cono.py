@@ -16,6 +16,7 @@ y = np.sin(theta) * (z/2)
 #Trazar el cono
 ax.plot_surface(x, y, z, color='b', alpha=0.5)
 
+#generar ejes coordenados
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
