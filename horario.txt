@@ -1,0 +1,5 @@
+ca3b01,computacion i,01,prof. victor,lu0800,a10,lu0850,a10,mi0800,lc3,mi0850,lc3
+ca3b01,computacion i,02,prof. victor,lu0800,a10,lu0850,a10,mi0800,lc3,mi0850,lc3
+da7m08,principios,53,profbriceño,lu0800,a10,lu0850,a10,mi0800,lc3,mi0850,lc3,lu0800,a10,lu0850,a10,mi0800,lc3
+da7m08,principios,54,profbriceño,lu0800,a10,lu0850,a10,mi0800,lc3,mi0850,lc3,lu0800,a10,lu0850,a10,mi0800,lc3
+da7m09,principios,55,profbriceño,(cerrada),lu0800,aving,lu0850,aving,mi0800,aving,mi0850,aving
